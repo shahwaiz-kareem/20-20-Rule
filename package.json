@@ -1,0 +1,16 @@
+{
+  "name": "20-20-rule",
+  "version": "1.0.0",
+  "description": "This is an app for 20-20 rule for programmers",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-wav-player": "^0.2.0"
+  }
+}
